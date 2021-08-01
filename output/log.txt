@@ -1,7 +1,15 @@
-[13:52:30.765] INFO  ttt.bootcamp.pages.BasePage.openUrl(BasePage.java:39) - Opened the application using: https://demo.nopcommerce.com/login
-[13:52:38.363] INFO  ttt.bootcamp.pageflow.LoginPageFlow.performLogin(LoginPageFlow.java:13) - Logging in using credentials: CredentialsBO [username=charlie.king@hotmail.com, password=zh4sxnd0q5]
-[13:52:38.364] INFO  ttt.bootcamp.pages.BasePage.openUrl(BasePage.java:39) - Opened the application using: https://demo.nopcommerce.com/login
-[13:52:45.832] INFO  ttt.bootcamp.pageflow.LoginPageFlow.performLogin(LoginPageFlow.java:13) - Logging in using credentials: CredentialsBO [username=fred.kautzer@hotmail.com, password=zyahoscr4]
-[13:52:45.852] INFO  ttt.bootcamp.pages.BasePage.openUrl(BasePage.java:39) - Opened the application using: https://demo.nopcommerce.com/login
-[13:52:52.802] INFO  ttt.bootcamp.pageflow.LoginPageFlow.performLogin(LoginPageFlow.java:13) - Logging in using credentials: CredentialsBO [username=clint.schroeder@gmail.com, password=4nsj8acu35m18hi]
-[13:52:52.804] INFO  ttt.bootcamp.pages.BasePage.openUrl(BasePage.java:39) - Opened the application using: https://demo.nopcommerce.com/login
+[14:07:35.102] TC:: mainestcaseName INFO  ttt.bootcamp.pageflow.LoginPageFlow.performLogin(LoginPageFlow.java:13) - Logging in using credentials: CredentialsBO [username=lawrence.lowe@gmail.com, password=xxzshadt]
+[14:07:35.110] TC:: mainestcaseName DEBUG ttt.bootcamp.pages.LoginPage.open(LoginPage.java:19) - Opening the Login page
+[14:07:35.111] TC:: mainestcaseName INFO  ttt.bootcamp.pages.BasePage.openUrl(BasePage.java:39) - Opened the application using: https://demo.nopcommerce.com/login
+[14:07:36.352] TC:: mainestcaseName DEBUG ttt.bootcamp.pages.LoginPage.fillUsername(LoginPage.java:24) - Providing username as: lawrence.lowe@gmail.com
+[14:07:36.642] TC:: mainestcaseName DEBUG ttt.bootcamp.pages.LoginPage.fillPassword(LoginPage.java:29) - Providing password as: xxzshadt
+[14:07:41.332] TC:: mainestcaseName INFO  ttt.bootcamp.pageflow.LoginPageFlow.performLogin(LoginPageFlow.java:13) - Logging in using credentials: CredentialsBO [username=jared.haag@yahoo.com, password=67ajz1xnq9w8au]
+[14:07:41.337] TC:: mainestcaseName DEBUG ttt.bootcamp.pages.LoginPage.open(LoginPage.java:19) - Opening the Login page
+[14:07:41.338] TC:: mainestcaseName INFO  ttt.bootcamp.pages.BasePage.openUrl(BasePage.java:39) - Opened the application using: https://demo.nopcommerce.com/login
+[14:07:42.564] TC:: mainestcaseName DEBUG ttt.bootcamp.pages.LoginPage.fillUsername(LoginPage.java:24) - Providing username as: jared.haag@yahoo.com
+[14:07:42.807] TC:: mainestcaseName DEBUG ttt.bootcamp.pages.LoginPage.fillPassword(LoginPage.java:29) - Providing password as: 67ajz1xnq9w8au
+[14:07:47.497] TC:: mainestcaseName INFO  ttt.bootcamp.pageflow.LoginPageFlow.performLogin(LoginPageFlow.java:13) - Logging in using credentials: CredentialsBO [username=retha.kuhn@hotmail.com, password=81pfp9p1eq0]
+[14:07:47.505] TC:: mainestcaseName DEBUG ttt.bootcamp.pages.LoginPage.open(LoginPage.java:19) - Opening the Login page
+[14:07:47.506] TC:: mainestcaseName INFO  ttt.bootcamp.pages.BasePage.openUrl(BasePage.java:39) - Opened the application using: https://demo.nopcommerce.com/login
+[14:07:49.700] TC:: mainestcaseName DEBUG ttt.bootcamp.pages.LoginPage.fillUsername(LoginPage.java:24) - Providing username as: retha.kuhn@hotmail.com
+[14:07:49.915] TC:: mainestcaseName DEBUG ttt.bootcamp.pages.LoginPage.fillPassword(LoginPage.java:29) - Providing password as: 81pfp9p1eq0
